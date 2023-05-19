@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureFunc": {
+      "commandName": "Project"
+    }
+  }
+}
+
